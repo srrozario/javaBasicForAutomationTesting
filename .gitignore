@@ -1,0 +1,3 @@
+# These files will not push into git
+/.idea/
+/out/
